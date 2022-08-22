@@ -216,8 +216,7 @@
 
     <div v-else class="container-fluid">
     <h1>
-        Please press Update Button! <br />
-        If you have already, please change country
+        Please press Update Button!
     </h1>
     </div>
 
